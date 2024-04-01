@@ -53,9 +53,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sultan-08/Sultan-08/output/snake.svg" alt="Snake animation" />
-
-###
