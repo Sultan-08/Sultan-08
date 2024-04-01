@@ -1,4 +1,4 @@
-<h3 align="left">Small code, big impact, Join me in the pursuit of elegant solutions 🚀</h3>
+<h3 align="left">Small code, big impact 🚀</h3>
 
 ###
 
