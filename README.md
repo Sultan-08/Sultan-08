@@ -1,4 +1,4 @@
-<h2 align="left">Small code, big impact 🚀</h2>
+<h2 align="left">Small Code, Big Impact 🚀</h2>
 
 ###
 
