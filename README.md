@@ -10,7 +10,9 @@
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sultan-08&" height="150" alt="Streaks" /></p>
 </div>
+
 <br clear="both">
+
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
