@@ -32,7 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="11" />
 </div>
+
 <h2>⚡️ Where to find me</h2>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/sultan-mulani-306505205/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
