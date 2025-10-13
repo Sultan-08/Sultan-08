@@ -1,7 +1,7 @@
 <h1 align="left">Small Code, Big Impact 🚀</h1>
 <br clear="both">
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sultan-08&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="220" width="390" alt="languages graph"/>
+  <img src="https://camo.githubusercontent.com/1bac54731785d830c0394cbbc4e8fbe4a7abda2fbb25f57783f30f0c2e33ce22/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d53756c74616e2d3038266c6f63616c653d656e26686964655f7469746c653d74727565266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d38267468656d653d6461726b26686964655f626f726465723d74727565" height="220" width="390" alt="languages graph"/>
 </div>
 <br clear="both">
 <h2></h2>
