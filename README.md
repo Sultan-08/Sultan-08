@@ -1,13 +1,16 @@
 <h1 align="left">Small Code, Big Impact 🚀</h1>
 <br clear="both">
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sultan-08&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="220" width="390" alt="languages graph"/>
 </div>
+
 <br clear="both">
 <h2></h2>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Sultan-08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="220" width="390" alt="stats graph"  />
 </div>
+
 <br clear="both">
 <h2></h2>
 <div>  
@@ -48,3 +51,4 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
