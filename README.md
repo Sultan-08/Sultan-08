@@ -1,27 +1,27 @@
-<h2 align="left">Small Code, Big Impact 🚀</h2>
-
-###
-
+<h1 align="left">Small Code, Big Impact 🚀</h1>
 <br clear="both">
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sultan-08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sultan-08&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="220" width="390" alt="languages graph"/>
 </div>
 
-  <br clear="both">
+<br clear="both">
+<h2></h2>
+
 <div>
-  <img src="https://streak-stats.demolab.com?user=Sultan-08&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=4" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sultan-08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="220" width="390" alt="stats graph"  />
 </div>
 
-  <br clear="both">
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sultan-08&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+<br clear="both">
+<h2></h2>
+
+<div>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sultan-08&" height="150" alt="Streaks" /></p>
 </div>
 
-###
+<br clear="both">
 
-###
-
+<h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="11" />
@@ -41,7 +41,7 @@
   <img width="11" />
 </div>
 
-###
+<h2>⚡️ Where to find me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sultan-mulani-306505205/" target="_blank">
@@ -55,5 +55,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
