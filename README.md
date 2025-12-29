@@ -56,7 +56,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## ⚡️ Where to find me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sultan-mulani-306505205/" target="_blank">
@@ -70,12 +70,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
----
-
-## ✨ Quote I Believe In
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
