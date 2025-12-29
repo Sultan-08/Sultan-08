@@ -1,4 +1,76 @@
-<h1 align="left">Small Code, Big Impact 🚀</h1>
+<h1 align="center">Hi 👋, I'm Sultan</h1>
+<h3 align="center">Frontend & Full Stack Developer | React | Node.js | Open Source Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sultan-08&label=Profile%20views&color=0e75b6&style=flat" alt="Sultan-08" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student / Developer  
+- 💻 Passionate about building web apps & user-friendly interfaces  
+- 🌱 Currently learning **Full Stack Development & Cloud Technologies**  
+- 🛠️ Love working with **React, Node.js, MongoDB, Express**  
+- 🧩 Enjoy solving real-world problems through code  
+- 🤝 Open to collaborations on exciting projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🧩 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sultan-08&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultan-08&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan-08&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Sultan-08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## ✨ Quote I Believe In
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+<!-- <h1 align="left">Small Code, Big Impact 🚀</h1>
 <br clear="both">
 
 <div>
@@ -54,4 +126,4 @@
   <a href="https://www.instagram.com/sultan15__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</div>
+</div> -->
