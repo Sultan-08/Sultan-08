@@ -1,20 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sultan</h1>
-<h3 align="center">Frontend & Full Stack Developer | React | Node.js | Open Source Enthusiast</h3>
+<h1>Hi 👋, I'm Sultan</h1>
+<h3>Frontend & Full Stack Developer | Open Source Enthusiast</h3>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sultan-08&label=Profile%20views&color=0e75b6&style=flat" alt="Sultan-08" />
+</p>
+
+---
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sultan-08&label=Profile%20views&color=0e75b6&style=flat" alt="Sultan-08" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sultan-08&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultan-08&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan-08&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student / Developer  
-- 💻 Passionate about building web apps & user-friendly interfaces  
-- 🌱 Currently learning **Full Stack Development & Cloud Technologies**  
-- 🛠️ Love working with **React, Node.js, MongoDB, Express**  
-- 🧩 Enjoy solving real-world problems through code  
-- 🤝 Open to collaborations on exciting projects
+- 🎓 MCA Student at @DPGU / Developer.
+- 💻 Passionate about building web apps & user-friendly interfaces.
+- 🌱 Currently learning **Full Stack Development & Data Science**.
+- 🛠️ Love working with **React, Node.js, MongoDB, Express**.
+- 🧩 Enjoy solving real-world problems through code.
+- 🤝 Open to collaborations on exciting projects.
 
 ---
 
@@ -35,22 +50,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sultan-08&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultan-08&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan-08&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
