@@ -1,11 +1,24 @@
-<h1>Hi 👋, I'm Sultan</h1>
-<h3>Frontend & Full Stack Developer | Open Source Enthusiast</h3>
+<h1 align="left">Small Code, Big Impact 🚀</h1>
+<!-- <br clear="both"> -->
+<!-- <h1>Hi 👋, I'm Sultan</h1> -->
+<h3>Frontend & Full Stack Developer ⚡ | Open Source Enthusiast 🧑🏻‍💻</h3>
 
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=Sultan-08&label=Profile%20views&color=0e75b6&style=flat" alt="Sultan-08" />
-</p>
+</p> -->
+---
+
+## 🚀 About Me
+
+- 🎓 MCA Student at @DPGU.
+- 💻 Passionate about building web apps & user-friendly interfaces.
+- 🌱 Currently learning **Full Stack Development & Data Science**.
+- 🛠️ Love working with **React, Node.js, MongoDB, Express**.
+- 🧩 Enjoy solving real-world problems through code.
+- 🤝 Open to collaborations on exciting projects.
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -22,16 +35,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 MCA Student at @DPGU.
-- 💻 Passionate about building web apps & user-friendly interfaces.
-- 🌱 Currently learning **Full Stack Development & Data Science**.
-- 🛠️ Love working with **React, Node.js, MongoDB, Express**.
-- 🧩 Enjoy solving real-world problems through code.
-- 🤝 Open to collaborations on exciting projects.
-
----
 
 ## 🚀 Languages and Tools I Use
 
