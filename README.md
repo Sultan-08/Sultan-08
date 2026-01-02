@@ -1,6 +1,4 @@
 <h1 align="left">Small Code, Big Impact 🚀</h1>
-<!-- <br clear="both"> -->
-<!-- <h1>Hi 👋, I'm Sultan</h1> -->
 <h3>Frontend & Full Stack Developer ⚡ | Open Source Enthusiast 🧑🏻‍💻</h3>
 
 <!-- <p>
