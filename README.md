@@ -76,8 +76,6 @@
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
 <!--
-<br clear="both">
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sultan-08&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="220" width="390" alt="languages graph"/>
 </div>
