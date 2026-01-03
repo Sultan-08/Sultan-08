@@ -75,7 +75,7 @@
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
-<!-- <h1 align="left">Small Code, Big Impact 🚀</h1>
+<!--
 <br clear="both">
 
 <div>
