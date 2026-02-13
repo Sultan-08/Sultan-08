@@ -9,7 +9,7 @@
 
 - 🎓 MCA Student at @DPGU.
 - 💻 Passionate about building web apps & user-friendly interfaces.
-- 🌱 Currently learning **Web-Development & Data Science**.
+- 🌱 Currently learning **Web Development & Data Science**.
 - 🛠️ Love working with **React, Node.js, MongoDB, Express**.
 - 🧩 Enjoy solving real-world problems through code.
 - 🤝 Open to collaborations on exciting projects.
