@@ -30,10 +30,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultan-08&theme=tokyonight" height="220" width="390" alt="stats graph"/>
 </p>
 <!-- <h2></h2> -->
-<!-- <p align="left"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan-08&layout=compact&theme=tokyonight" height="300" alt="Streaks"/> -->
-<!-- </p> -->
-
 ---
 
 ## 🚀 Languages and Tools I Use
