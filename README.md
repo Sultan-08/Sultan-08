@@ -51,7 +51,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="11" />
 </div>
+
 ---
+
 ## ⚡️ Where to find me
 
 <div align="left">
@@ -66,5 +68,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
 ---
+
 ⭐ **If you like my work, consider giving a star to my repositories!**
