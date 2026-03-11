@@ -23,7 +23,7 @@
 </p>
 <h2></h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan-08&layout=compact&theme=tokyonight" height="163" width="390" alt="Streaks"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan-08&layout=compact&theme=tokyonight" height="220" width="390" alt="Streaks"/>
 </p>
 <h2></h2>
 <p align="left">
