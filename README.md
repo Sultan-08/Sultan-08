@@ -20,6 +20,7 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultan-08&theme=tokyonight" height="220" width="390" alt="stats graph"/>
+  <img src="https://camo.githubusercontent.com/2e6e6184a75e29c5bccece4c9861ba27957d86cd958b88561edb641cc72ed71b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d53756c74616e2d3038267468656d653d746f6b796f6e69676874" height="220" width="390" alt="stats graph"/>
 </p>
 <h2></h2>
 <p align="left">
