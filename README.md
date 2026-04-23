@@ -19,7 +19,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultan-08&theme=tokyonight" height="250" width="390" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultan-08&theme=tokyonight" width="390" alt="stats graph"/>
 </p>
 <h2></h2>
 <p align="left">
